@@ -9,11 +9,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Cooking Yaya
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alicia Ruiz Rodríguez
 
 **Resumen** : lorem ipsun dolor.... 
 
