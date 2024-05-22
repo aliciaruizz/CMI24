@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-![logo](https://github.com/aliciaruizz/CMI24/blob/main/abuela%20frente.jpg).
+![logo](https://github.com/aliciaruizz/CMI24/blob/main/cara1.png).
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
