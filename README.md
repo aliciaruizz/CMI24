@@ -11,19 +11,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Cooking Yaya
 
-**Web:**   https://    (url github.io)
+**Web:**   https://github.com/aliciaruizz/aliciaruizz.github.io
 
 **Autor:**  Alicia Ruiz Rodríguez
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Serie de minijuegos orientados a niños pequeños, por ello tiene colores vibrantes 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Videojuego 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 ![logo](https://github.com/aliciaruizz/CMI24/blob/main/cara1.png).
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+
+**Resolución:** 800x600px 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
@@ -40,7 +40,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
 
 # 2. Memoria del proyecto 
 
