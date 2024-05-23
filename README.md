@@ -13,6 +13,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   https://github.com/aliciaruizz/aliciaruizz.github.io
 
+Proyecto: https://aliciaruizz.github.io
+
+
 **Autor:**  Alicia Ruiz Rodríguez
 
 **Resumen** : Serie de minijuegos orientados a niños pequeños, por ello tiene colores vibrantes 
