@@ -30,7 +30,7 @@ Proyecto: https://aliciaruizz.github.io
 
 **Probado en:**    Google Chrome 
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 3.5MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
