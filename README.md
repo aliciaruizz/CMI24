@@ -53,6 +53,8 @@ Lo primero que encontramos es el teaser, en el cual se muestras el objetivo del 
 
 ![teaser](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/teaser.png).
 
+Esta es una de las varias escenas del teaser, concretamente la que marca el objtetivo. Tras el teaser aparecerá el menú principal:
+
 
 
 ### 2.2. Esquema de navegación 
