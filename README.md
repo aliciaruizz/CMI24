@@ -55,6 +55,9 @@ Lo primero que encontramos es el teaser, en el cual se muestras el objetivo del 
 
 Esta es una de las varias escenas del teaser, concretamente la que marca el objtetivo. Tras el teaser aparecerá el menú principal:
 
+! [menu]https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/menu.png).
+
+En el menú podemos observar duferentes opciones, si pulsamos galería llegaremos a otra página en la que también se muestran diferentes opciones que ver como son las diferentes localizaciones, el personaje principal (la yaya) o la receta a conseguir; en créditos aparacen algunos datos de quien ha realizado el videojuego y finalmente si pulsamos empezar nos llevará a un segundo menú:
 
 
 ### 2.2. Esquema de navegación 
