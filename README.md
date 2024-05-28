@@ -55,9 +55,14 @@ Lo primero que encontramos es el teaser, en el cual se muestras el objetivo del 
 
 Esta es una de las varias escenas del teaser, concretamente la que marca el objtetivo. Tras el teaser aparecerá el menú principal:
 
-! [menu]https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/menu.png).
+! [menu](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/menu.png).
 
-En el menú podemos observar duferentes opciones, si pulsamos galería llegaremos a otra página en la que también se muestran diferentes opciones que ver como son las diferentes localizaciones, el personaje principal (la yaya) o la receta a conseguir; en créditos aparacen algunos datos de quien ha realizado el videojuego y finalmente si pulsamos empezar nos llevará a un segundo menú:
+En el menú podemos observar diferentes opciones, si pulsamos galería llegaremos a otra página en la que también se muestran diferentes opciones que ver como son las diferentes localizaciones, el personaje principal (la yaya) o la receta a conseguir; en créditos aparacen algunos datos de quien ha realizado el videojuego y finalmente si pulsamos empezar nos llevará a un segundo menú:
+
+! [juegos](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/juegos.png).
+Como vemos tenemos varios hecos sin piezas, algunos en las mesas y otros en el rectángulo azul.
+Los de las mesas son los botones para entrar a los juegos, solo hay uno ya que van apareciendo según superen los niveles; si consigue superar el primer nivel la pieza se desplazará a su sitio en el rectángulo azul, una vez encajada apareceda en otra mesa la del siguiente nivel.
+El juego acaba cuando las cuatro piezas están en su sitio.
 
 
 ### 2.2. Esquema de navegación 
@@ -74,7 +79,6 @@ En el menú podemos observar duferentes opciones, si pulsamos galería llegaremo
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
@@ -89,13 +93,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque no es simplemente una página con distintos jurgos que no tienen relación entre sí, sino que tiene el incentivo de juntar todas las piezas.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a niños pequeños, ya que son juegos bastante fáciles, pero intenté poner colores vibrantes y sonidos que pudieran llamar su atención
 
 
 
@@ -103,25 +107,34 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+En un principio todos los videojuegos serían iguales, pero al ir aprendiendo cosas nuevas decidí que cada uno sería diferente para que también así fuera más entretenido.
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+Casi todo lo hice a base de condicionales y variables.
+
+El primer videojuego consiste en un juego de cartas, en el cual hay que encontrar las parejas.
+Mediante las variables establecí todos los términos que iba a necesitar y con las condicionales el funcionamiento del juego en sí: por ejemplo, si al dar la vuelta las dos son iguales desaparecen del tablero, si no lo son, la carta vuelve a darse la vuelta.
+Para poder dar la vuelta a las cartas y que una misma tuviera dos caras utilicé los conmutadores, en un principio todos tienen la misma imagen, la del revés y al clicar sobre ella aparece un alimento, el objetivo es encontrar el que es igual a él.
+Si llega a alcanzar las tres parejas habrá superado el nivel y volverá al menú de los mini juegos, donde una pequeña animación hace que aparezca el siguiente nivel.
+Hasta que no alcance las tres parejas la escena se reproduce en bucle, usando un GoToandPlay.
+
+Respecto al segundo nivel, me costó un poco más entender el funcionamiento, intenté hacerlo solo por colisiones pero no llegaba a funcionar, así que tuve que añadir más cosas.
+Usé varios elementos, primero una plantilla en la que encajarían varias piezas, pero al estar todas juntas no llegaba a entender el proceso a seguir, así que cree una figura (cuadrado) para cada hueco y les bajé la opacidad al máximo, ahora ya tenía cada figura con la que cada pieza entraría en contacto.
+Para coger las piezas usé Drag and Drop creando un área caliente para cada pieza, si al soltar la pieza coincidía con su cuadrado correspondiente se encajaría en el lugar, sino quedaría suelta. 
+Al no poder usar la línea de tiempo con las piezas, ya que sino no funciona el Drag and Drop lo que hice es que la pieza movible desaparezca y simplemente aparezca su correspondiente en su sitio, para esto simplemente la pieza encajada empieza invisible y con un condicional establecí que si encaja se haga visible.
+
+Al ser nueve piezas , si llega a encajar todas, al igual que antes vuelve a la escena del menú y con otra animación aparece el mini juego siguiente.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Creo que conseguí que todo funcionara más o menos bien, pero lo que quizás falla un poco más es que a la hora de poner las piezas en el segundo juego si no está lo suficientemente cerca no encaja, lo que puede confundir al jugador y pensar que está encajada pero no, por eso también añadí los sonidos, si no está encajada no sonará.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Al ser la primera vez programando hay cosas que me ha costado mucho entenderlas, algunas por ejemplo ni llegaron a salirme y tuve que cambiar de idea por ejemplo en uno de ellos irían cayendo alimentos y el personaje tendría que esquivarlos pero no conseguí que funcionara y lo cambié por el de las cartas. Otro problema que me costó mucho resolver fue reiniciar los juegos cada vez que entrara. Pero en general estoy contenta con el resultado aunque no esté acabado del todo ya que solo pude hacer dos de los cuatro juegos.
 
 
 
