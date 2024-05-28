@@ -18,7 +18,7 @@ Proyecto: https://aliciaruizz.github.io
 
 **Autor:**  Alicia Ruiz Rodríguez
 
-**Resumen** : Serie de minijuegos orientados a niños pequeños, por ello tiene colores vibrantes 
+**Resumen** : Serie de minijuegos orientados a niños pequeños.
 
 **Estilo/género:**  Videojuego 
 
