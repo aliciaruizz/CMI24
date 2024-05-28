@@ -49,9 +49,9 @@ Proyecto: https://aliciaruizz.github.io
 
 ### 2.1 Storyboard: 
 
+Lo primero que encontramos es el teaser, en el cual se muestras el objetivo del juego. Es un juego para miños en el cual tienen que conseguir todas las piezas del puzzle para completar la receta, por cada mini juego que supere se le dará una pieza
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![teaser](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/teaser.png).
 
 
 
