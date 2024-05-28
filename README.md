@@ -55,11 +55,11 @@ Lo primero que encontramos es el teaser, en el cual se muestras el objetivo del 
 
 Esta es una de las varias escenas del teaser, concretamente la que marca el objtetivo. Tras el teaser aparecerá el menú principal:
 
-! [menu](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/menu.png).
+![menu](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/menu.png).
 
 En el menú podemos observar diferentes opciones, si pulsamos galería llegaremos a otra página en la que también se muestran diferentes opciones que ver como son las diferentes localizaciones, el personaje principal (la yaya) o la receta a conseguir; en créditos aparacen algunos datos de quien ha realizado el videojuego y finalmente si pulsamos empezar nos llevará a un segundo menú:
 
-! [juegos](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/juegos.png).
+![juegos](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/juegos.png).
 Como vemos tenemos varios hecos sin piezas, algunos en las mesas y otros en el rectángulo azul.
 Los de las mesas son los botones para entrar a los juegos, solo hay uno ya que van apareciendo según superen los niveles; si consigue superar el primer nivel la pieza se desplazará a su sitio en el rectángulo azul, una vez encajada apareceda en otra mesa la del siguiente nivel.
 El juego acaba cuando las cuatro piezas están en su sitio.
