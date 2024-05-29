@@ -66,16 +66,7 @@ El juego acaba cuando las cuatro piezas están en su sitio.
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
-
+![esquema](https://github.com/aliciaruizz/aliciaruizz.github.io/blob/main/diograma%20juego.jpg).
 
 
 
@@ -84,14 +75,13 @@ El juego acaba cuando las cuatro piezas están en su sitio.
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+A la hora de buscar inspiración para el proyecto me basé en los típicos video juegos que jugamos cuando nois dan un ordenador o una consola por primera vez, concretamente de de uno llamado "Cooking mama", aunque después el juego no se parezca en nada a como es este pero sí me inspiré para hacerlo sobre un restaurante y en el nombre. Respecto a los diseños sí que los hice yo, pero por ejemplo para la fachada usé una referencia de un edificio real.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque no es simplemente una página con distintos jurgos que no tienen relación entre sí, sino que tiene el incentivo de juntar todas las piezas.
+Este  proyecto es interesante porque no es simplemente una página con distintos juegos que no tienen relación entre sí, sino que tiene el incentivo de juntar todas las piezas.
 
 
 
@@ -147,12 +137,12 @@ Al ser la primera vez programando hay cosas que me ha costado mucho entenderlas,
 
 * Musica:  
 * Imágenes:  
-* Tipografía
+* Tipografía: Insaniburger (dafont)
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-
+- Sketchbook
 
 
 
